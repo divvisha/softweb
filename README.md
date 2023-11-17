@@ -577,10 +577,8 @@ footer {
 
 
 ## OUTPUT:
-<img width="411" alt="Screenshot 2023-11-17 180731" src="https://github.com/divvisha/softweb/assets/127508123/12a93eb7-9b4e-4848-bd0a-ec1d46ddb64a">
-<img width="413" alt="Screenshot 2023-11-17 180817" src="https://github.com/divvisha/softweb/assets/127508123/0a88de6b-b826-4e8e-8e6a-b2a8d34976b2">
-<img width="412" alt="Screenshot 2023-11-17 180856" src="https://github.com/divvisha/softweb/assets/127508123/831a9f0d-5e94-43a9-ad01-fd82bbf5bdbe">
 
+![image](https://github.com/Catty12384/softweb/assets/120629225/84c5a960-dffd-4247-933f-e4ea43114413)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
